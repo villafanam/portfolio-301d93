@@ -85,22 +85,15 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "U.S. Army",
+        "title": "Information Technology Specialist",
+        "years": "2009 - 2017",
         "mainTech": [
-          "Angular 8/9/10"
+          "Cisco Routers/Switches"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Security+",
+          "CCNET"
         ]
       },
       {
